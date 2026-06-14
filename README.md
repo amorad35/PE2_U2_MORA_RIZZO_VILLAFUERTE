@@ -1,4 +1,3 @@
-# PE2_U2_MORA_RIZZO_VILLAFUERTE
 # PE2 Unidad II - Ingeniería de Requisitos
 
 ## Integrantes
